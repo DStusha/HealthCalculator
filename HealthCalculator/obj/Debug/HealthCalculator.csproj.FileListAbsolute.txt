@@ -1,0 +1,18 @@
+C:\Users\123\Desktop\HealthCalculator\HealthCalculator\bin\Debug\HealthCalculator.exe.config
+C:\Users\123\Desktop\HealthCalculator\HealthCalculator\bin\Debug\HealthCalculator.exe
+C:\Users\123\Desktop\HealthCalculator\HealthCalculator\bin\Debug\HealthCalculator.pdb
+C:\Users\123\Desktop\HealthCalculator\HealthCalculator\obj\Debug\HealthCalculator.fmMain.resources
+C:\Users\123\Desktop\HealthCalculator\HealthCalculator\obj\Debug\HealthCalculator.Properties.Resources.resources
+C:\Users\123\Desktop\HealthCalculator\HealthCalculator\obj\Debug\HealthCalculator.csproj.GenerateResource.Cache
+C:\Users\123\Desktop\HealthCalculator\HealthCalculator\obj\Debug\HealthCalculator.exe
+C:\Users\123\Desktop\HealthCalculator\HealthCalculator\obj\Debug\HealthCalculator.pdb
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\C#\HealthCalculator\HealthCalculator\obj\Debug\HealthCalculator.csprojResolveAssemblyReference.cache
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\C#\HealthCalculator\HealthCalculator\obj\Debug\HealthCalculator.fmMain.resources
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\C#\HealthCalculator\HealthCalculator\obj\Debug\HealthCalculator.fmResult.resources
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\C#\HealthCalculator\HealthCalculator\obj\Debug\HealthCalculator.Properties.Resources.resources
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\C#\HealthCalculator\HealthCalculator\obj\Debug\HealthCalculator.csproj.GenerateResource.Cache
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\C#\HealthCalculator\HealthCalculator\obj\Debug\HealthCalculator.exe
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\C#\HealthCalculator\HealthCalculator\obj\Debug\HealthCalculator.pdb
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\C#\HealthCalculator\HealthCalculator\bin\Debug\HealthCalculator.exe.config
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\C#\HealthCalculator\HealthCalculator\bin\Debug\HealthCalculator.exe
+C:\Users\123\Настя\УНИВЕР\ЛАБЫ\3 курс\C#\HealthCalculator\HealthCalculator\bin\Debug\HealthCalculator.pdb
